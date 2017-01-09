@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidRX</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="connection_error">Connection error</string>
+    <string name="try_again">Try again</string>
+</resources>
